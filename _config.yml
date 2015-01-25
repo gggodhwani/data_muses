@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Data Muses
 tagline:          'A collated list of amazing Data Visualizations and Stories'
-description:      'A collated list of amazing Data Visualizations and Stories, I like and admire. Curated by: <br/><a href="https://twitter.com/gggodhwani" target="_blank">Gaurav Godhwani</a>'
+description:      'A collated list of amazing Data Visualizations and Stories, that are interesting blend of art, information and conscience. Curated by: <br/><a href="https://twitter.com/gggodhwani" target="_blank">Gaurav Godhwani</a>'
 url:              http://gggodhwani.github.io/data_muses/
 baseurl:          /data_muses/
 

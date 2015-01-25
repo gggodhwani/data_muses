@@ -4,7 +4,7 @@
  <title>Data Muses</title>
  <link href="http://gggodhwani.github.io/data_muses//atom.xml" rel="self"/>
  <link href="http://gggodhwani.github.io/data_muses//"/>
- <updated>2015-01-25T21:08:05+05:30</updated>
+ <updated>2015-01-25T23:17:04+05:30</updated>
  <id>http://gggodhwani.github.io/data_muses/</id>
  <author>
    <name>Gaurav Godhwani</name>
@@ -19,6 +19,27 @@
    <id>http://gggodhwani.github.io/data_muses//2014/10/27/learning-from-schooloscope</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://visualisingadvocacy.org/blog/should-schools-be-closed-learning-schooloscope-opendata-post-mortem&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://visualisingadvocacy.org/sites/drawingbynumbers.ttc.io/files/home_0.png&quot;/&gt;&lt;/a&gt;
 &lt;strong&gt;Schooloscope&lt;/strong&gt; was the brainchild of Berg London, a multitalented design studio. Launched in May 2010, the site took performance survey data (Ofsted) about state-run primary and secondary schools and layered it on a map to visualise proximity, size, performance, trends and a whole variety of other parameters. &lt;strong&gt;&lt;a href=&quot;http://mushon.com/&quot;&gt;Mushon Zer-Aviv&lt;/a&gt;&lt;/strong&gt; a designer, educator and media activist based in NYC says in his &lt;a href=&quot;https://visualisingadvocacy.org/blog/should-schools-be-closed-learning-schooloscope-opendata-post-mortem&quot; target=&quot;_blank&quot;&gt;detailed case study&lt;/a&gt;, &lt;em&gt;&amp;quot;Since I first laid my cursor on Schooloscope.com it intrigued me as an exceptional case in the world of open data and information design. The chain of events that led to the site’s termination is an important story, which I believe should be chronicled and told.&amp;quot;&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How Nations Fare in PhDs by Sex [Interactive]</title>
+   <link href="http://gggodhwani.github.io/data_muses//2014/09/16/how-nation-fare-in-phds-by-sex/"/>
+   <updated>2014-09-16T00:00:00+05:30</updated>
+   <id>http://gggodhwani.github.io/data_muses//2014/09/16/how-nation-fare-in-phds-by-sex</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.scientificamerican.com/article/how-nations-fare-in-phds-by-sex-interactive/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://static1.squarespace.com/static/50f43f46e4b022c54499c15d/t/549d8660e4b0be677c054a9c/1419609697975/Gender+Gap_Periscopic.png?format=1000w&quot; width=&quot;640&quot; height=&quot;360&quot;/&gt;&lt;/a&gt;
+In this interactive chart &lt;strong&gt;Scientific American&lt;/strong&gt; assembles data collected by the National Science Foundation, tracing the gender gap at the doctoral level for 56 nations. The situation in individual countries varies widely, but as the numbers make clear, there are interesting exceptions to the global trend. Explore in detail &lt;a href=&quot;http://www.scientificamerican.com/article/how-nations-fare-in-phds-by-sex-interactive/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>More than 400,000 Stolen Years: An Examination of U.S. Gun Murders</title>
+   <link href="http://gggodhwani.github.io/data_muses//video/2013/11/03/more-than-400000-stolen-years/"/>
+   <updated>2013-11-03T00:00:00+05:30</updated>
+   <id>http://gggodhwani.github.io/data_muses//video/2013/11/03/more-than-400000-stolen-years</id>
+   <content type="html">&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;//www.youtube.com/embed/8R8UOjMy-5k&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Using data from the U.S. Federal Bureau of Investigation’s Uniform Crime Report and the World Health Organization’s UNSD Demographic Statistics, this data exploration tool visualizes the gun murders that took place in 2010, the most recent year for which data is available. &lt;em&gt;Periscopic&lt;/em&gt; discuss the background information about this &lt;a href=&quot;http://www.periscopic.com/#/our-work/more-than-400000-stolen-years-an-examination-of-u-s-gun-murders-in-2010&quot;&gt;project&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
