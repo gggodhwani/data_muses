@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Data Muses</title>
+ <link href="http://gggodhwani.github.io/data_muses//atom.xml" rel="self"/>
+ <link href="http://gggodhwani.github.io/data_muses//"/>
+ <updated>2015-01-25T21:08:05+05:30</updated>
+ <id>http://gggodhwani.github.io/data_muses/</id>
+ <author>
+   <name>Gaurav Godhwani</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Should Schools Be Closed? Learning from Schooloscope, an OpenData post-mortem</title>
+   <link href="http://gggodhwani.github.io/data_muses//2014/10/27/learning-from-schooloscope/"/>
+   <updated>2014-10-27T00:00:00+05:30</updated>
+   <id>http://gggodhwani.github.io/data_muses//2014/10/27/learning-from-schooloscope</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://visualisingadvocacy.org/blog/should-schools-be-closed-learning-schooloscope-opendata-post-mortem&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://visualisingadvocacy.org/sites/drawingbynumbers.ttc.io/files/home_0.png&quot;/&gt;&lt;/a&gt;
+&lt;strong&gt;Schooloscope&lt;/strong&gt; was the brainchild of Berg London, a multitalented design studio. Launched in May 2010, the site took performance survey data (Ofsted) about state-run primary and secondary schools and layered it on a map to visualise proximity, size, performance, trends and a whole variety of other parameters. &lt;strong&gt;&lt;a href=&quot;http://mushon.com/&quot;&gt;Mushon Zer-Aviv&lt;/a&gt;&lt;/strong&gt; a designer, educator and media activist based in NYC says in his &lt;a href=&quot;https://visualisingadvocacy.org/blog/should-schools-be-closed-learning-schooloscope-opendata-post-mortem&quot; target=&quot;_blank&quot;&gt;detailed case study&lt;/a&gt;, &lt;em&gt;&amp;quot;Since I first laid my cursor on Schooloscope.com it intrigued me as an exceptional case in the world of open data and information design. The chain of events that led to the site’s termination is an important story, which I believe should be chronicled and told.&amp;quot;&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Google I/O 2013 - Google Maps + HTML5 + Spatial Data Visualization: A Love Story</title>
+   <link href="http://gggodhwani.github.io/data_muses//video/2013/05/23/Google_Maps_HTML5_spatial_data_visualization/"/>
+   <updated>2013-05-23T00:00:00+05:30</updated>
+   <id>http://gggodhwani.github.io/data_muses//video/2013/05/23/Google_Maps_HTML5_spatial_data_visualization</id>
+   <content type="html">&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;//www.youtube.com/embed/aZJnI6hxr-c&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Much if not most of the world&amp;#39;s data has a geographic component. Data visualizations with a geographic component are some of the most popular on the web. This session will explore the principles of data visualization and how you can use HTML5 - particularly WebGL - to supplement Google Maps visualizations.&lt;/em&gt;, &lt;strong&gt;Brendan Kenny&lt;/strong&gt; works at Google as an engineer with the Maps Developer Relations team and mostly works with JavaScript APIs. &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The beauty of data visualization</title>
+   <link href="http://gggodhwani.github.io/data_muses//video/2010/07/01/the-beauty-of-data-visualization/"/>
+   <updated>2010-07-01T00:00:00+05:30</updated>
+   <id>http://gggodhwani.github.io/data_muses//video/2010/07/01/the-beauty-of-data-visualization</id>
+   <content type="html">&lt;iframe src=&quot;https://embed-ssl.ted.com/talks/david_mccandless_the_beauty_of_data_visualization.html&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;quot;Data is the new soil, because for me, it feels like a fertile, creative medium. Over the years, online, we’ve laid down a huge amount of information and data, and we irrigate it with networks and connectivity, and it’s been worked and tilled by unpaid workers and governments.&amp;quot;&lt;/em&gt; - qoutes &lt;strong&gt;David McCandless&lt;/strong&gt; who turns complex data sets (like worldwide military spending, media buzz, Facebook status updates) into beautiful, simple diagrams that tease out unseen patterns and connections. Good design, he suggests, is the best way to navigate information glut — and it may just change the way we see the world.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
