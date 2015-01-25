@@ -5,9 +5,12 @@ title: Videos
 
 {% for post in site.posts %}
     {% if post.category == "video" %}
-<div class="page">
-  <h2 class="page-title">{{ post.title }}</h2>
-  {{ post.content }}
+<div class="post">
+  <h2 class="post-title">{{ post.title }}</h2>
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.content }}
 </div>
     {% endif %}
 {% endfor %}

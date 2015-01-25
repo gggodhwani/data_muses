@@ -5,6 +5,8 @@ Namaste! I love to read several articles related to Data Visualizations and Stor
 
 *Muses* in Greek mythology are the goddesses of the inspiration of literature, science and the arts, and were considered the source of the knowledge, related orally for centuries in the ancient culture, that was contained in poetic lyrics and myths. I envision <strong>Data Muses</strong> as a source of knowledge and inspiration for people working with data and narrating stories around it.
 
+Website Link: <a href="http://gggodhwani.github.io/data_muses/">http://gggodhwani.github.io/data_muses/</a>
+
 ## Build With
 
 Site is created using [Hyde](http://hyde.getpoole.com) built on [Poole](https://github.com/poole) for [Jekyll](http://jekyllrb.com).
