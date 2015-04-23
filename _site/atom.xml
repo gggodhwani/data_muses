@@ -4,7 +4,7 @@
  <title>Data Muses</title>
  <link href="http://gggodhwani.github.io/data_muses//atom.xml" rel="self"/>
  <link href="http://gggodhwani.github.io/data_muses//"/>
- <updated>2015-01-27T12:51:49+05:30</updated>
+ <updated>2015-04-23T20:20:06+05:30</updated>
  <id>http://gggodhwani.github.io/data_muses/</id>
  <author>
    <name>Gaurav Godhwani</name>
@@ -29,6 +29,16 @@
    <id>http://gggodhwani.github.io/data_muses//2014/09/16/how-nation-fare-in-phds-by-sex</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.scientificamerican.com/article/how-nations-fare-in-phds-by-sex-interactive/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://static1.squarespace.com/static/50f43f46e4b022c54499c15d/t/549d8660e4b0be677c054a9c/1419609697975/Gender+Gap_Periscopic.png?format=1000w&quot; width=&quot;640&quot; height=&quot;360&quot;/&gt;&lt;/a&gt;
 In this interactive chart &lt;strong&gt;Scientific American&lt;/strong&gt; assembles data collected by the National Science Foundation, tracing the gender gap at the doctoral level for 56 nations. The situation in individual countries varies widely, but as the numbers make clear, there are interesting exceptions to the global trend. Explore in detail &lt;a href=&quot;http://www.scientificamerican.com/article/how-nations-fare-in-phds-by-sex-interactive/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>DC KIDS COUNT Data Tool [Interactive]</title>
+   <link href="http://gggodhwani.github.io/data_muses//2014/06/24/dc-kids-count-data-tools/"/>
+   <updated>2014-06-24T00:00:00+05:30</updated>
+   <id>http://gggodhwani.github.io/data_muses//2014/06/24/dc-kids-count-data-tools</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.datakind.org/blog/dc-action-for-children-long-term-collaboration-for-long-term-impact/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://www.dcactionforchildren.org/sites/default/files/uploads/Screenshot%202014-06-09%2022.58.01.png&quot; width=&quot;640&quot; height=&quot;360&quot;/&gt;&lt;/a&gt;
+“Children are deeply affected, in all aspects of their lives, by the conditions in their immediate surroundings,” writes HyeSook Chung, Executive Director of DC Action for Children.  “How does US capital – one of the most affluent, educated and wealthy cities in the nation – have one of the worst child poverty rates?” DC Action for Children and DataKind came up with &lt;a href=&quot;http://datatools.dcactionforchildren.org/&quot; target=&quot;_blank&quot;&gt;DC KIDS COUNT Data Tool 2.0&lt;/a&gt; to map and analyze neighborhood-level needs, progress, and outcomes and drive these insights allow to shape data driven policy solutions. Read more about this &lt;a href=&quot;http://www.datakind.org/blog/dc-action-for-children-long-term-collaboration-for-long-term-impact/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.  &lt;/p&gt;
 </content>
  </entry>
  
